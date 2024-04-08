@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "e126",
+      "name": "Reni",
+      "email": "r@gmail.com",
+      "phone": "9825465293",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFK51FpDUg90A1q86xgDDI8t19QAByKlpYZQ&usqp=CAU"
+    },
+    {
+      "id": "8e65",
+      "name": "jaival",
+      "email": "yashminavapariya@gmail.com",
+      "phone": "22343523",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFK51FpDUg90A1q86xgDDI8t19QAByKlpYZQ&usqp=CAU"
+    },
+    {
+      "id": "993f",
+      "name": "jaival",
+      "email": "n@gamil.com",
+      "phone": "22343523",
+      "image": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": "b613",
+      "name": "Yashmi",
+      "email": "y@gmail.com",
+      "phone": "9825465293",
+      "image": "https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg"
+    }
+  ]
+}
